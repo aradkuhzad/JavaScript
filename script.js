@@ -27,4 +27,10 @@ console.log([1, 2, 3]);
 console.log({a:1, b:2});
 }
 
+function sorttext() {
+    let x = 1;
+    const fname = "David";
+    document.getElementsByClassName("text-yn")[0].innerHTML = fname + " is " + x + " years " + " old ";
+}
+sorttext();
 
