@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(255, 246, 246);
+}
+
 #picture-lamp {
     width: 130px;
     height: 180px;
