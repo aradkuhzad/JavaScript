@@ -10,4 +10,10 @@ function activate() {
 function deactivate() {
     document.getElementById("picture-lamp").src = "img/pic_bulboff.gif";
 }
+function changefont() {
+    document.getElementById("change-fontsize").style.fontSize = "40px";
+}
+function hidetext() {
+    document.getElementById("hide-text").style.display = "none";
+}
 
