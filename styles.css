@@ -1,0 +1,12 @@
+#picture-lamp {
+    width: 130px;
+    height: 180px;
+}
+
+#change-fontsize {
+    font-size: 18px;
+}
+
+#show-text {
+    display: none;
+}
