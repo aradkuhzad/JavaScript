@@ -19,7 +19,12 @@ function hidetext() {
 function showtext() {
     document.getElementById("show-text").style.display = "block";
 }
-window.alert ("Hello There!"); 
-
+// window.alert ("Hello There!");  
+{
+let x = 5;
+console.log(x);
+console.log([1, 2, 3]);
+console.log({a:1, b:2});
+}
 
 
