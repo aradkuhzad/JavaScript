@@ -16,4 +16,10 @@ function changefont() {
 function hidetext() {
     document.getElementById("hide-text").style.display = "none";
 }
+function showtext() {
+    document.getElementById("show-text").style.display = "block";
+}
+window.alert ("Hello There!"); 
+
+
 
